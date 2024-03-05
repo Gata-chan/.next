@@ -1,0 +1,10 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/crewtable/page": "app/crewtable/page.js",
+  "/drivertable/page": "app/drivertable/page.js",
+  "/icon.ico/route": "app/icon.ico/route.js",
+  "/routetable/page": "app/routetable/page.js",
+  "/timetable/page": "app/timetable/page.js",
+  "/page": "app/page.js",
+  "/cartable/page": "app/cartable/page.js"
+}
